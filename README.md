@@ -12,6 +12,9 @@ https://drive.google.com/file/d/1QP169yow9yY1-QJTzoAyZlUnLJyLHf6L/view?usp=shari
 full project setup video from the link below
 https://drive.google.com/file/d/14_8wbCA-f051tH4GVNm0Q7GG-FrfEO3v/view?usp=sharing
 
+project documentation and UI screenshots 
+https://drive.google.com/file/d/1toTB9Ji1_G0Ai4DlzBBDUIQkIA-O-ce5/view?usp=sharing
+
 
 download the zip file from the link then extract anywhere .
 then go to libraryMangementFolder,double click the LibararyManagementSystem.sln file
